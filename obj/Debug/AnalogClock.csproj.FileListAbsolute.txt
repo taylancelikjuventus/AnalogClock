@@ -1,0 +1,10 @@
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojAssemblyReference.cache
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+D:\CurrentProjects\C#Projects\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
